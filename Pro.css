@@ -9,5 +9,11 @@ body
 	font-size: 16pt;
 	color: white;
 	text-align: justify;
-	font-family: Lato, "Times New Roman", sans-serif;
+	font-family: Lato, "Times New Roman", sans-serif
+}
+img 
+{
+	color: red;
+	font-size: 11pt;
+	
 }
